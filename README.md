@@ -2,5 +2,4 @@
 divisores comuns
 
 
-
-https://zealous-cori-a7e4d3.netlify.com
+https://nervous-liskov-769b82.netlify.com/
