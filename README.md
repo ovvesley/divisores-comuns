@@ -1,4 +1,4 @@
-# Divisiores Comuns
+# Divisores Comuns
 
 https://divisores-comuns.netlify.com/
 
